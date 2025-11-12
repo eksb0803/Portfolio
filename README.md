@@ -24,7 +24,7 @@ Jeg liker å kombinere kreativitet med praktiske løsninger som gjør brukeroppl
 **Min rolle:** (Beskriv din rolle)  
 **Lenker:**  
 - Live demo: [https://eksb0803.github.io/html-css--Elise-Bringeland-/](https://eksb0803.github.io/html-css--Elise-Bringeland-/)  
-- GitHub-repo: [Sett inn lenke her]
+- GitHub-repo: https://github.com/eksb0803/Rainy-days.git
 
 ## Kontakt  
 Har du spørsmål eller vil du vite mer om hvordan jeg jobber? Ta gjerne kontakt:  
