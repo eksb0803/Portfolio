@@ -25,7 +25,8 @@ Skjermbilder eller GIF
 Velkommen til min portefølje! Her viser jeg et utvalg prosjekter jeg har laget for å utvikle mine ferdigheter innen webdesign, brukergrensesnitt og responsiv frontend-utvikling.  
 
 ## Om meg  
-Jeg er en frontend-utvikler med interesse for brukervennlige løsninger og visuell kvalitet. Gjennom prosjektene mine kombinerer jeg teknologier som HTML5, CSS3 (Flexbox/ Grid), JavaScript og UI/UX-prinsipper for å skape engasjerende og funksjonelle nettsider.  
+Jeg er en som liker å jobbe med brukervennlige løsninger og visuell kvalitet. Gjennom prosjektene mine utforsker jeg hvordan gode UI/UX-prinsipper, struktur og designvalg kan skape engasjerende og brukervennlige nettsider. 
+Jeg liker å kombinere kreativitet med praktiske løsninger som gjør brukeropplevelsen enkel og inspirerende. 
 
 ## Prosjekter  
 
@@ -47,7 +48,7 @@ Jeg er en frontend-utvikler med interesse for brukervennlige løsninger og visue
 
 ## Kontakt  
 Har du spørsmål eller vil du vite mer om hvordan jeg jobber? Ta gjerne kontakt:  
-- LinkedIn: [Sett inn lenke]  
+- LinkedIn: 
 - GitHub: https://github.com/eksb0803  
-- E-post: [din e-post]
+- E-post: elisebringeland@gmail.com
 
