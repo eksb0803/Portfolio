@@ -16,7 +16,7 @@ Jeg liker å kombinere kreativitet med praktiske løsninger som gjør brukeroppl
 **Min rolle:** Design og utvikling av hele frontenden – fra layout, UI-komponenter til interaktive elementer  
 **Lenker:**  
 - Live demo: https://eksb0803.github.io/NYsemesteroppgave1/
-- GitHub-repo:
+- GitHub-repo: https://github.com/eksb0803/NYsemesteroppgave1.git
 - 
 ### 🌧 Rainy Days Webside  
 **Beskrivelse:** (Legg inn kort beskrivelse her – hva siden handler om, hvorfor du laget den, hvem som er målgruppen)  
