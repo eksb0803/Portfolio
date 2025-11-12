@@ -15,9 +15,12 @@ Zigma Helpcenter
 ## Prosjekter fra FrontEnd studie
 
 ### 🎨 Museum Webside  
-**Beskrivelse:** Nettside for et museum med tre målgrupper: lærere, elever og studenter. Målet var å benytte alt jeg hadde lært om design og brukergrensesnitt for å skape en interaktiv og engasjerende opplevelse. Siden skulle gjøre museet spennende og øke interessen for besøk.  
+**Beskrivelse:** Nettside for et museum med tre målgrupper: lærere, elever og studenter. Målet var å benytte alt jeg hadde lært om design og brukergrensesnitt for å skape en interaktiv og engasjerende opplevelse. Siden skulle gjøre museet spennende og øke interessen for besøk.
+
 **Teknologier brukt:** HTML5, CSS3, responsiv design  
+
 **Min rolle:** Design og utvikling av hele frontenden – fra layout, UI-komponenter til interaktive elementer  
+
 **Lenker:**  
 - Live demo: https://eksb0803.github.io/NYsemesteroppgave1/
 - GitHub-repo: https://github.com/eksb0803/NYsemesteroppgave1.git
