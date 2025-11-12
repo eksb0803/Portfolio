@@ -19,9 +19,11 @@ Jeg liker å kombinere kreativitet med praktiske løsninger som gjør brukeroppl
 - GitHub-repo: https://github.com/eksb0803/NYsemesteroppgave1.git
 - 
 ### 🌧 Rainy Days Webside  
-**Beskrivelse:** (Legg inn kort beskrivelse her – hva siden handler om, hvorfor du laget den, hvem som er målgruppen)  
+**Beskrivelse:** 
+En nettbutikk for jakker, rettet mot eventyrlystne mennesker som søker det ekstreme. Nettsiden skulle være responsiv og fungere sømløst på både mobil og nettbrett, med et intuitivt og brukervennlig design. Jeg la vekt på tydelig navigasjon, farger og knapper som reflekterer merkevaren.
+Etter implementeringen av JavaScript har enkelte funksjoner endret seg, men det opprinnelige designet og uttrykket er fortsatt godt ivaretatt.
 **Teknologier brukt:** HTML5, CSS3, JavaScript  
-**Min rolle:** (Beskriv din rolle)  
+**Min rolle:** Jeg stod for hele designprosessen, inkludert fargevalg, layout og brukergrensesnitt. Jeg utviklet også all koden for nettsiden, fra HTML og CSS til JavaScript, slik at designet ble funksjonelt og responsivt på både mobil og nettbrett.
 **Lenker:**  
 - Live demo: [https://eksb0803.github.io/html-css--Elise-Bringeland-/](https://eksb0803.github.io/html-css--Elise-Bringeland-/)  
 - GitHub-repo: https://github.com/eksb0803/Rainy-days.git
