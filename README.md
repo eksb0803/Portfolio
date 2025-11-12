@@ -8,7 +8,11 @@ Velkommen til min portefølje! Her viser jeg et utvalg prosjekter jeg har laget 
 Jeg er en som liker å jobbe med brukervennlige løsninger og visuell kvalitet. Gjennom prosjektene mine utforsker jeg hvordan gode UI/UX-prinsipper, struktur og designvalg kan skape engasjerende og brukervennlige nettsider. 
 Jeg liker å kombinere kreativitet med praktiske løsninger som gjør brukeropplevelsen enkel og inspirerende. 
 
-## Prosjekter  
+## Mitt arbeid i jobbsammenheng
+
+Zigma Helpcenter
+
+## Prosjekter fra FrontEnd studie
 
 ### 🎨 Museum Webside  
 **Beskrivelse:** Nettside for et museum med tre målgrupper: lærere, elever og studenter. Målet var å benytte alt jeg hadde lært om design og brukergrensesnitt for å skape en interaktiv og engasjerende opplevelse. Siden skulle gjøre museet spennende og øke interessen for besøk.  
@@ -17,7 +21,7 @@ Jeg liker å kombinere kreativitet med praktiske løsninger som gjør brukeroppl
 **Lenker:**  
 - Live demo: https://eksb0803.github.io/NYsemesteroppgave1/
 - GitHub-repo: https://github.com/eksb0803/NYsemesteroppgave1.git
-- 
+  
 ### 🌧 Rainy Days Webside  
 **Beskrivelse:** 
 En nettbutikk for jakker, rettet mot eventyrlystne mennesker som søker det ekstreme. Nettsiden skulle være responsiv og fungere sømløst på både mobil og nettbrett, med et intuitivt og brukervennlig design. Jeg la vekt på tydelig navigasjon, farger og knapper som reflekterer merkevaren.
