@@ -11,6 +11,7 @@ Jeg liker å kombinere kreativitet med praktiske løsninger som gjør brukeroppl
 ## Mitt arbeid i jobbsammenheng
 
 Zigma Helpcenter
+
 **Beskrivelse:** 
 Jeg har bygget Zigma Helpcenter fra bunnen av i WordPress, der jeg har stått for hele konseptet, designet og alt innholdet. Siden ble laget for å gi Zigma-kunder enkel tilgang til hjelpedokumenter, guider og opplæringsmateriell, og er tilgjengelig direkte i nettleseren bak innlogging.
 **Helpcenteret inkluderer:**
