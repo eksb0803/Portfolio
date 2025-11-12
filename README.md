@@ -12,7 +12,7 @@ Jeg liker å kombinere kreativitet med praktiske løsninger som gjør brukeroppl
 
 ### 🎨 Museum Webside  
 **Beskrivelse:** Nettside for et museum med tre målgrupper: lærere, elever og studenter. Målet var å benytte alt jeg hadde lært om design og brukergrensesnitt for å skape en interaktiv og engasjerende opplevelse. Siden skulle gjøre museet spennende og øke interessen for besøk.  
-**Teknologier brukt:** HTML5, CSS3, JavaScript, responsiv design  
+**Teknologier brukt:** HTML5, CSS3, responsiv design  
 **Min rolle:** Design og utvikling av hele frontenden – fra layout, UI-komponenter til interaktive elementer  
 **Lenker:**  
 - Live demo: [Sett inn lenke her]  
